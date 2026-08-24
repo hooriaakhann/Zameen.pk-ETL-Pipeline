@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+logs/
+parquet_output/
+checkpoint/
+*.log
+chromedriver*
